@@ -1,0 +1,4 @@
+# Il repository pubblico è un artefatto di deploy. Nessun segreto.
+.env
+*.key
+*.pem
